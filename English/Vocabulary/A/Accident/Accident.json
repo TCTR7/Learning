@@ -1,0 +1,42 @@
+[
+	{
+		"word": "Accident",
+		"description: "Something bad that happens that is not expected or intended and that offen damages something or injures someone",
+		"type": "n",
+		"audio": "",
+		"examples": [
+			{
+				"title": "How did the traffic accident happen?",
+				"audio_example": ""
+			},
+			{
+				"title": "The accident orrcurred yesterday morning",
+				"audio_example": ""
+			},
+			{
+				"title": "The cause of the accident is unknown",
+				"audio_example": ""
+			},
+			{
+				"title": "The accident happened at 3.p.m",
+				"audio_example": ""
+			},
+			{
+				"title": "The accident could have been avoided",
+				"audio_example": ""
+			},
+			{
+				"title": "The police investigated the accident thoroughly",
+				"audio_example": ""
+			},
+			{
+				"title": "The accident was caused by a sleepy driver",
+				"audio_example": ""
+			},
+			{
+				"title": "We met by accident at the aiport",
+				"audio_example": ""
+			}
+		]
+	},
+]

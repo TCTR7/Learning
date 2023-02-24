@@ -1,0 +1,22 @@
+[
+	{
+		"word": "Accidental",
+		"description: "Happening by chance",
+		"type": "adj",
+		"audio": "",
+		"examples": [
+			{
+				"title": "This is an accidental error",
+				"audio_example": ""
+			},
+			{
+				"title": "It was an accidental meeting",
+				"audio_example": ""
+			},
+			{
+				"title": "Have you got cover for accidental damage?",
+				"audio_example": ""
+			}
+		]
+	},
+]

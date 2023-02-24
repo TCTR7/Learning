@@ -1,0 +1,22 @@
+[
+	{
+		"word": "Accurate",
+		"description: "Correct, exact, and without any mistake",
+		"type": "adj",
+		"audio": "",
+		"examples": [
+			{
+				"title": "Accurent measurement is very important in science",
+				"audio_example": ""
+			},
+			{
+				"title": "He is very accurate in his work",
+				"audio_example": ""
+			},
+			{
+				"title": "This data isn't accurate at all",
+				"audio_example": ""
+			}
+		]
+	},
+]

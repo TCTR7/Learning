@@ -1,0 +1,26 @@
+[
+	{
+		"word": "Accuse",
+		"description: "To say that someone has done something wrong, illegal, or unkind",
+		"type": "v",
+		"audio": "",
+		"examples": [
+			{
+				"title": "The police accused him of murder",
+				"audio_example": ""
+			},
+			{
+				"title": "He was wrongly accused of theft",
+				"audio_example": ""
+			},
+			{
+				"title": "She accused him of lying",
+				"audio_example": ""
+			},
+			{
+				"title": "He is accused of stealing the money",
+				"audio_example": ""
+			}
+		]
+	},
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"word": "Accent",
+		"description": "The way in which people in a particular area, country, or social group pronounce words",
+		"type": "n",
+		"audio": "",
+		"examples": [
+			{
+				"title": "She speaks with a southern accent",
+				"audio_example": ""
+			},
+			{
+				"title": "He made fun of my accent",
+				"audio_example": ""
+			},
+			{
+				"title": "He spoke with a regional accent",
+				"audio_example": ""
+			},
+			{
+				"title": "He has a southern accent",
+				"audio_example": ""
+			}
+		]
+	},
+]

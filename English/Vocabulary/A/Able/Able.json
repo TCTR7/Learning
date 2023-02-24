@@ -1,0 +1,30 @@
+[
+	{
+		"word": "Able",
+		"description": "",
+		"type": "adj",
+		"audio": "",
+		"examples": [
+			{
+				"title": "He is able to speak ten languages",
+				"audio_example": ""
+			},
+			{
+				"title": "I am able to swim across the river",
+				"audio_example": ""
+			},
+			{
+				"title": "I'm sorry that I wasn't able to call you yesterday",
+				"audio_example": ""
+			},
+			{
+				"title": "I'm sure I'll be able to find it",
+				"audio_example": ""
+			},
+			{
+				"title": "You won't be able to handle this job",
+				"audio_example": ""
+			}
+		]
+	},
+]

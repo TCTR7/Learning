@@ -1,0 +1,22 @@
+[
+	{
+		"word": "Accommondation",
+		"description: "A place to live, work, stay, etc...",
+		"type": "n",
+		"audio": "",
+		"examples": [
+			{
+				"title": "Hotel accommondation is included in the price of the tour",
+				"audio_example": ""
+			},
+			{
+				"title": "They're not sure the could provide accommondation for the whole group",
+				"audio_example": ""
+			},
+			{
+				"title": "We need accommodation for seven adults and two children",
+				"audio_example": ""
+			}
+		]
+	},
+]

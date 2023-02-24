@@ -1,0 +1,25 @@
+[
+	{
+		"word": "Accept",
+		"description: "To agree to take something; to say yes to an offer or invitation",
+		"type": "v",
+		"audio": "",
+		"examples": [
+			{
+				"title": "Please accept my sincere apologies.",
+				"audio_example": ""
+			},{
+				"title": "We must accept this inevitable fact",
+				"audio_example": ""
+			},
+			{
+				"title": "Will you accept my invitation?",
+				"audio_example": ""
+			},
+			{
+				"title": "She's decided not to accept the job",
+				"audio_example": ""
+			}
+		]
+	},
+]

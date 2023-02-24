@@ -1,0 +1,26 @@
+[
+	{
+		"word": "Acknowledge",
+		"description: "To accept the truth or recognize the existence of something",
+		"type": "v",
+		"audio": "",
+		"examples": [
+			{
+				"title": "They acknowledged that the decision was a mistake",
+				"audio_example": ""
+			},
+			{
+				"title": "He acknowledged that he was defeated",
+				"audio_example": ""
+			},
+			{
+				"title": "She acknowledged that she couldn't speak english",
+				"audio_example": ""
+			},
+			{
+				"title": "We acknowledge receipt of your letter",
+				"audio_example": ""
+			}
+		]
+	},
+]

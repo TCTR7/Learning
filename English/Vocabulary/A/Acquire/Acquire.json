@@ -1,0 +1,22 @@
+[
+	{
+		"word": "Acquire",
+		"description: "To get or buy something",
+		"type": "v",
+		"audio": "",
+		"examples": [
+			{
+				"title": "She has acquired a good knowledge of English",
+				"audio_example": ""
+			},
+			{
+				"title": "How long will it take to acquire the neccessary skills?",
+				"audio_example": ""
+			},
+			{
+				"title": "They acquired a large forture",
+				"audio_example": ""
+			}
+		]
+	},
+]

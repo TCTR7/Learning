@@ -1,0 +1,46 @@
+[
+	{
+		"word": "Account",
+		"description: "an arrangement with a bank in which the customer puts in and takes out money and the bank keeps a record of it",
+		"type": "n, v",
+		"audio": "",
+		"examples": [
+			{
+				"title": "In order to use this service, you need to register an account",
+				"audio_example": ""
+			},
+			{
+				"title": "How can I tranfer money from my bank account to his?",
+				"audio_example": ""
+			},
+			{
+				"title": "They don't have a bank account",
+				"audio_example": ""
+			},
+			{
+				"title": "My husband and I have a joint bank account",
+				"audio_example": ""
+			},
+			{
+				"title": "I'd like to open a savings account",
+				"audio_example": ""
+			},
+			{
+				"title": "I'm seriously thinking about to deleting my Facebook account",
+				"audio_example": ""
+			},
+			{
+				"title": "I withdrew 200$ from my savings account",
+				"audio_example": ""
+			},
+			{
+				"title": "She has a lot of money in her savings account",
+				"audio_example": ""
+			},
+			{
+				"title": "Here's my account number",
+				"audio_example": ""
+			}
+		]
+	},
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"word": "Act",
+		"description: "Something that you do, to behave in the stated way",
+		"type": "n,v",
+		"audio": "",
+		"examples": [
+			{
+				"title": "We should act morally",
+				"audio_example": ""
+			},
+			{
+				"title": "I will act on your advice",
+				"audio_example": ""
+			},
+			{
+				"title": "You'd better act upon his advice",
+				"audio_example": ""
+			}
+		]
+	},
+]

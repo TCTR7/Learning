@@ -1,0 +1,26 @@
+[
+	{
+		"word": "Accidentally",
+		"description: "by chance or by mistake",
+		"type": "adv",
+		"audio": "",
+		"examples": [
+			{
+				"title": "I accidentally deleted the file",
+				"audio_example": ""
+			},
+			{
+				"title": "He accidentally hit his thumb with the hammer",
+				"audio_example": ""
+			},
+			{
+				"title": "I saw her accidentally on the way here",
+				"audio_example": ""
+			},
+			{
+				"title": "I accidentally stepped on her foot",
+				"audio_example": ""
+			}
+		]
+	},
+]
